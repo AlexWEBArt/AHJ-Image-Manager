@@ -1,6 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mi798vovy2m9fwjt?svg=true)](https://ci.appveyor.com/project/AlexWEBArt/ahj-trello)
+[![Build status](https://ci.appveyor.com/api/projects/status/s680c2u2ntw7kavc?svg=true)](https://ci.appveyor.com/project/AlexWEBArt/ahj-image-manager)
 
-https://alexwebart.github.io/AHJ-Trello/
+https://alexwebart.github.io/AHJ-Image-Manager/
 
 Правила сдачи задания:
 
